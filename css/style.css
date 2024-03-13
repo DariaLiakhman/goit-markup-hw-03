@@ -48,6 +48,7 @@ button {
 .header {
   padding-top: 24px;
   padding-bottom: 24px;
+  border-bottom: 1px solid #e7e9fc;
 }
 .header-container {
   display: flex;
@@ -67,6 +68,7 @@ button {
   text-transform: uppercase;
   color: #4d5ae5;
   align-items: center;
+  margin-right: 76px;
 }
 .header-logo span {
   color: #2e2f42;
@@ -293,7 +295,9 @@ button {
   letter-spacing: 0.02em;
   color: #f4f4fd;
   padding-top: 16px;
+  max-width: 264px;
 }
 .footer-wrap {
-  padding: 100px 864px 100px 0;
+  padding: 100px 0;
+  
 }
